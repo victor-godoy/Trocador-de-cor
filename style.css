@@ -1,0 +1,11 @@
+body {
+  background: blue;
+}
+body.active {
+  background: red;
+}
+
+h1 {
+  color: #000000;
+  background: rgba(227, 215, 215, 0.9);
+}
